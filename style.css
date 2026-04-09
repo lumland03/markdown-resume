@@ -4,6 +4,8 @@
 /* Print Styling */
 @media print {
 
-    
+    h1{
+        color: red;
+    }
 
 }

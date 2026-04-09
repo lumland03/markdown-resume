@@ -1,7 +1,5 @@
-# Your Resume
+# Landon Unmland
 
 
 
 
-
-This resume was generated using HTML, CSS, and JS.
